@@ -1,0 +1,6 @@
+WHAT IS BLOCKCHAIN?
+
+ It's a near real-time peer to peer distibuted immutable database
+
+Introduction:->  https://www.youtube.com/watch?v=qRKzeas369s
+
